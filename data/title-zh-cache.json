@@ -11066,5 +11066,12 @@
   "My first in-prod corrupted hard drive problem": "我的第一个产品内硬盘损坏问题",
   "Google Broke reCAPTCHA for De-Googled Android Users": "谷歌为去谷歌的 Android 用户破解了 reCAPTCHA",
   "AI is breaking two vulnerability cultures": "人工智能正在打破两种脆弱文化",
-  "How do I deal with memory leaks? (2022)": "如何处理内存泄漏？ (2022)"
+  "How do I deal with memory leaks? (2022)": "如何处理内存泄漏？ (2022)",
+  "Teaching Claude Why": "教导克劳德为什么",
+  "Meta Shuts Down End-to-End Encryption for Instagram Messaging": "Meta 关闭 Instagram 消息传递的端到端加密",
+  "I learned something about GPUs today": "今天我学到了一些关于 GPU 的知识",
+  "Non-determinism is an issue with patching CVEs": "不确定性是修补 CVE 的一个问题",
+  "CVE-2026-31431: Copy Fail": "CVE-2026-31431：复制失败",
+  "Show HN: The independent guide to agent orchestrators": "Show HN：代理协调器的独立指南",
+  "Canonical Under Attack": "规范受到攻击"
 }
