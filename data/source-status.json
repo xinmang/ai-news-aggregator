@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T10:32:02.276Z",
+  "generated_at": "2026-08-17T12:43:01.728Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 492,
+      "duration_ms": 367,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 313,
+      "duration_ms": 432,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 398,
-      "duration_ms": 12883,
+      "item_count": 384,
+      "duration_ms": 21353,
       "error": null
     },
     {
@@ -30,23 +30,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1073,
+      "duration_ms": 570,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3032,
-      "duration_ms": 1068,
+      "item_count": 3041,
+      "duration_ms": 915,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 57,
-      "duration_ms": 831,
+      "item_count": 59,
+      "duration_ms": 663,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5162,
+      "duration_ms": 5002,
       "error": "fetch failed"
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1155,
+      "duration_ms": 1471,
       "error": null
     },
     {
@@ -70,15 +70,15 @@
       "site_name": "AI今日热榜",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 78,
+      "duration_ms": 205,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 117,
-      "duration_ms": 1757,
+      "item_count": 120,
+      "duration_ms": 2026,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "YouTube",
       "ok": true,
       "item_count": 45,
-      "duration_ms": 73,
+      "duration_ms": 265,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "新智元",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3592,
+      "duration_ms": 3934,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "微信公众号",
       "ok": true,
       "item_count": 137,
-      "duration_ms": 1109,
+      "duration_ms": 1446,
       "error": null
     }
   ],
@@ -115,8 +115,8 @@
     "aihot"
   ],
   "fetched_raw_items": 5005,
-  "items_before_topic_filter": 41891,
-  "items_in_24h": 683,
+  "items_before_topic_filter": 41815,
+  "items_in_24h": 715,
   "rss_opml": {
     "enabled": false,
     "path": null,
